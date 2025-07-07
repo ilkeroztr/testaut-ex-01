@@ -77,5 +77,5 @@ public class LoginTest {
 
 Screenshots are placed inside the `/screenshots` folder and referenced in the steps above.
 
----
+----
 
